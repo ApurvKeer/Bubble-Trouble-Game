@@ -1,4 +1,8 @@
-###Bubble Trouble Game
+Bubble Trouble Game
+
+Apurv Keer
+
+This was a course I took on Introduction to Programming in C++. This is a C++ code of a bubble shooter game.
 
 FEATURES:
 1) Bubbles has a parabolic vertical motion.
