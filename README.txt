@@ -1,3 +1,5 @@
+###Bubble Trouble Game
+
 FEATURES:
 1) Bubbles has a parabolic vertical motion.
 2) When a bullet collides with a bubble with thrershold radius, the bubble and bullet bith disappear.
